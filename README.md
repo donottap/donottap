@@ -1,4 +1,4 @@
-# donttap
+# donttap v2
 
 Website:
 https://ultrabullet.com/donttap/
