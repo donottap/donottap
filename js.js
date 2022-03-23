@@ -586,7 +586,7 @@ contextB.fill();
     //doit = 0;
        // console.log(Bonus,"1");
         if (Bonus<92){
-        Bonus = Bonus+8;}
+        Bonus = Bonus+0;}
         else
         {Bonus=100;}
        // console.log(Bonus,"2");
